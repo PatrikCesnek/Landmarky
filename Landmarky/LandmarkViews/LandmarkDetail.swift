@@ -10,6 +10,7 @@ import SwiftUI
 
 struct LandmarkDetail: View {
     @EnvironmentObject var userData: UserData
+    @State private var showingDescription = false
     
     var landmark: Landmark
     
@@ -51,6 +52,18 @@ struct LandmarkDetail: View {
                     Spacer()
                     Text(landmark.city)
                         .font(.subheadline)
+                }
+                VStack {
+                    Button("Ukáž popis") {
+                        self.showingDescription.toggle()
+                    }
+                    
+                    if self.showingDescription == true {
+                        ScrollView {
+                            Text("\(landmarkData[landmarkIndex].description)")
+                                .fixedSize(horizontal: false, vertical: true)
+                        }
+                    }
                 }
             }
             .padding()

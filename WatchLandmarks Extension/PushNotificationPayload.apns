@@ -1,0 +1,12 @@
+{
+    "aps": {
+        "alert": {
+            "title": "Veľká Homola",
+            "body": "Ste vo vzdialenosti 5km od Veľkej Homoly"
+        },
+        "category": "LandmarkNear",
+        "thread-id": "5280"
+    },
+
+    "landmarkIndex": 1
+}

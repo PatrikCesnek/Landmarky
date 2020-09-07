@@ -1,0 +1,467 @@
+[
+    {
+        "name": "Veľká Homola",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Modra",
+        "place": "Malé Karpaty",
+        "id": 1001,
+        "coordinates": {
+            "longitude": 17.2611,
+            "latitude": 48.3633
+        },
+        "description": "Ak obľubujete dobrú turistiku a k tomu aj krásne výhľady, spravte si výlet na vrch Veľká Homola, ktorý sa týči nad mestom Modra. Rozhľadňa je postavená v modernom štýle a svoje pomenovanie dostala po niekdajšom lesnom správcovi Alexandrovi Filípkovi, ktorý sa nielen staral o lesy, ale sa pričinil aj o rozvoj turizmu a cestovného ruchu. Rozhľadňa je skutočne vysoká, vrchná vyhliadková plošina sa týči až do výšky 20,4 metra. Na vrchol vedie 120 schodov. Ak ich zdoláte, ponúkne sa vám rozľahlý a krásny výhľad nielen na okolité Malé Karpaty, ale tiež na Podunajskú nížinu, Biele Karpaty, Považský Inovec, Tribeč, Strážovské vrchy, Vtáčnik, Veľkú Fatru, Pohronský Inovec, Východné Alpy v Rakúsku, Pavlovské vrchy a Chřiby na Morave. Pod prístreškom si môžete oddýchnuť a následne sa vydať na cestu späť, alebo môžete pokojne pokračovať v objavovaní prírodných krás smerom na skalnatý útvar Traja jazdci, Kamenné vráta, na Pezinskú Babu či Zámčisko. Rozhľadňa Alexandra Filípka je dostupná po červenej značke od autobusovej zastávky pri Zochovej chate (cca 2.5km), z Modry po modrej a z Pezinku po červenej (alebo neskôr zelenej) turistickej značke.",
+        "imageName": "velkahomola"
+    },
+    {
+        "name": "Rysy",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "",
+        "place": "Vysoké Tatry",
+        "id": 1002,
+        "coordinates": {
+            "longitude": 20.0881,
+            "latitude": 49.17937
+        },
+        "description": "Rysy sú ikonickým vrchom Tatier nachádzajúcim sa v ich v hlavnom hrebeni na slovensko-poľskej hranici. Pripisujú sa im mnohé prvenstvá - najvyšší vrch Poľska, najvyššie položený hraničný priechod, najnavštevovanejší a najvyšší vrch v Tatrách, na ktorý sa môže bežný turista dostať po vlastných nohách bez použitia lanovky či horského vodcu. Rysy majú tri vrcholy: vyhliadkový (hraničný) severozápadný, prostredný (hlavný) a juhovýchodný (najnižší). Na úpätí slovenskej strany Rysov sa nachádzajú sústava troch jazier nazývaných Žabie plesá, ktoré sú skvelou medzi zastávkou pri výstupe na vrchol. Z vrcholových častí Rysov sa vám, po pomerne náročnom výstupe, otvorí prekrásny výhľad na celú panorámu Tatier, kvôli ktorému tu chodia zástupy turistov zo Slovenska, ale i zo zahraničia. Rysy jednoducho majú svoje jedinečné čaro, ktoré musí okúsiť každý tatranský turista. Tradičným východiskom túr na Rysy je Popradské pleso. Asi 6km dlhá trasa odtiaľ vedie Mengusovskou dolinou k Žabím plesám, Chate pod Rysmi, kde si môžete oddýchnuť a načerpať nové sily, a ďalej až k vrcholu.",
+        "imageName": "rysy"
+    },
+    {
+        "name": "Popradské Pleso",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Jazerá",
+        "city": "Poprad",
+        "place": "Vysoké Tatry",
+        "id": 1003,
+        "coordinates": {
+            "longitude": 20.07772,
+            "latitude": 49.15418
+        },
+        "description": "Popradské pleso je ikonickou lokalitou každej turistiky vo Vysokých Tatrách. Je to miesto, ktoré by žiadny návštevník Tatier nemal vynechať. Nachádza sa v Mengusovskej doline, obkolesené tatranskými štítmi Ostrvy, Tupej a protiľahlého hrebeňa s vrcholmi ako Satan, Malá Bašta a Patria. Popradské pleso má veľkú výhodu v tom, že je ľahko dostupné po asfaltovej ceste. V lete sa sem môžete s celou rodinou vybrať pešo alebo vysadnúť na bicykel. Problém nebudú mať ani mamičky s detičkami v kočíkoch. Prechádzka okolo Popradského plesa je nenáročná, veľmi oddychová a je skutočným balzamom pre dušu a čarokrásnou rozprávkou pre vaše oči. Breh Popradského plesa lemuje charakteristický Horský hotel a Majláthova chata, kde sa dá okrem ubytovania aj výborne najesť a oddýchnuť si pred túrou napr. na Rysy, Ostrvu a iné. O kúsok ďalej, v Limbovom háji, je Symbolický cintorín. Sú tu umiestnené pamätné tabule s menami ľudí, ktorí zahynuli vo Vysokých Tatrách ako i v iných svetových horstvách. Samotné Popradské pleso sa bolo vytvorené po ústupe ľadovcov v poslednej dobe ľadovej. Údolie tak zaliala voda stekajúca z okolitých dolín a štítov. Voda v plese má typickú žltozelenú farbu.",
+        "imageName": "popradskepleso"
+    },
+    {
+        "name": "Vodopády Studeného potoka",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Vodopády",
+        "city": "Starý Smokovec",
+        "place": "Vysoké Tatry",
+        "id": 1004,
+        "coordinates": {
+            "longitude": 20.22378,
+            "latitude": 49.1645
+        },
+        "description": "Najkrajšie vodopády Vysokých Tatier sú určite Vodopády Studeného potoka, ktoré sa nachádzajú na krátkom úseku potoka od Rainerovej chaty až po Bilíkovu chatu (Hrebienok). Studený potok tu preteká obrovským terénnym zlomom a vytvára prekrásne kaskády a katarakty, ktoré sú obzvlášť pekné pri jarnom roztápaní snehu alebo po výdatných dažďoch. Tvorí ich Obrovský, Malý, Skrytý a Dlhý vodopád. Očarujúce sú v každom ročnom období, no na sile im pribúda najmä pri jarnom roztápaní snehu alebo po silných dažďoch. Vodopády Studeného potoka sú vyhľadávaným turistickým miestom a trasa vedúca k nim nie je príliš náročná, a preto je ideálna aj pre rodiny s menšími deťmi. Značkované chodníky vedú z Tatranskej Lesnej, Tatranskej Lomnice a Starého Smokovca. Najkratšia cesta k nim je z Hrebienka, kam vedie aj pozemná lanovka. Peší výstup trvá približne hodinu.",
+        "imageName": "vodopadystudenehopotoka"
+    },
+    {
+        "name": "Kubínska hoľa",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Dolný Kubín",
+        "place": "Oravská Magura",
+        "id": 1005,
+        "coordinates": {
+            "longitude": 19.26924,
+            "latitude": 49.27364
+        },
+        "description": "Kubínska hoľa spoločne so susedným vrcholom Minčol kraľuje Oravskej Magure. Je to druhý najvyšší vrch tohto pohoria, vypínajúci sa priamo nad mestom Dolný Kubín. Je to turisticky veľmi atraktívna lokalita s lyžiarskym strediskom SKI PARK Kubínska hoľa a neďalekou Chatou Kubínska hoľa. Kubínska hoľa je plná prírodných krás, ponúka pestré potulky lesom, ale i lúkami. Z vrcholových častí sa naskytajú krásne výhľady na očarujúcu oravskú krajinu a okolité pohoria - Chočské vrchy, Oravské a Kysucké Beskydy, Malú aj Veľkú Fatru, Vysoké, Západné i Nízke Tatry. Turistika prírodnými zákutiami Kubínskej hole je ideálna v každom ročnom období. Príroda vám vždy ponúkne iný, úžasný pohľad na kus tejto krajiny. Navyše, počas leta je lúčnatý vrchol strediska ideálny aj na paragliding. Na Kubínsku hoľu vedie viacero značených turistických chodníkov. Východiskový bod je zväčša Dolný Kubín, ale máte možnosť sa sem dostať aj z Oravského Podzámku. Tým, ktorým sa nechce šliapať do kopca, môžu využiť lanovku.",
+        "imageName": "kubinskahola"
+    },
+    {
+        "name": "Žabie plesá",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Jazerá",
+        "city": "",
+        "place": "Vysoké Tatry",
+        "id": 1006,
+        "coordinates": {
+            "longitude": 20.073154,
+            "latitude": 49.17538
+        },
+        "description": "Názov Žabie plesá nesú tri očarujúce jazerá - Veľké, Malé a Vyšné Žabie pleso, ležiace v kotline Žabích plies v Mengusovskej doline. Obkolesené sú drsnými a divokými, skalnými vrcholkami. Svoje príznačné pomenovanie vraj dostali po kamenných ostrovčekov v strede hladiny Veľkého Žabieho plesa, ktoré pripomínajú žabu. Veľké Žabie pleso sa nachádza je v hornej časti Kotliny Žabích plies v nadmorskej výške 1 919 m n. m. Je najväčšie a aj najnavštevovanejšie, nakoľko leží hneď pri turistickej trase vedúcej na Rysy. V minulosti bolo spojené s Malým Žabím plesom. Malé Žabie pleso leží najnižšie. Vyteká z neho Žabí potok, ktorý asi po dvoch kilometroch ústi do Hincovho potoka. Malé Žabie pleso má tvar polmesiaca, avšak postupne ho zasypávajú skalné lavíny, a tým sa stále zmenšuje. Vyšné Žabie pleso leží v malej kotline pod stenami Volej veže v nadmorskej výške 2 040 m n. m. Toto karové pleso je bez prítoku a turisticky je neprístupné. Žabie plesa predstavujú príjemnú zastávku na turistickej trase vedúcej z Popradského plesa cez Mengusovskú dolinu až na Rysy.",
+        "imageName": "zabieplesa"
+    },
+    {
+        "name": "Kamzík",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Bratislava",
+        "place": "Malé Karpaty",
+        "id": 1007,
+        "coordinates": {
+            "longitude": 17.09472,
+            "latitude": 48.18252
+        },
+        "description": "Zalesnený vrch Kamzík je obľúbeným vychádzkovým a oddychovým miestom obyvateľov mesta Bratislava, ktorí za týmto krásnym kúskom prírody mieria najmä počas víkendov. Vďaka 200 metrov vysokej televíznej veži, ktorá je na jeho vrchole osadená, je tento vrch neprehliadnuteľný. Na veži sa vo výške 70 m nachádza aj vyhliadková plošina, na ktorú sa možno vyviezť výťahom, a z ktorej sa otvára krásny výhľad na mesto a široké okolie. Podľa rozsiahlej vilovej štvrte na svahu priamo pod lesom, mu domáci hovoria aj Koliba. Krásne lesoparkové prostredie láka nielen peších turistov, ale i bežcov a cyklistov. V areáli funguje niekoľko športovísk, ubytovacích a stravovacích zariadení. V zime je veľmi obľúbená rozsiahla lyžiarska lúka, známa ako Cvičná lúka. V lete zas 360-metrov dlhá letná bobová dráha. Vedľa dráhy sa nachádza Lanoland - lanové dráhy na stromoch v rôznych výškach nad zemou, na ktorých si môžu vyskúšať odvahu a šikovnosť milovníci adrenalínových športov, ale aj deti. Na vrch Kamzík premáva aj sedačková lanovka zo Železnej studničky. Cesta trvá 8,4 minúty. Na lanovke je možné odviezť si aj bicykel, alebo detský kočík. Okrem toho sem vedú aj nenáročné značené turistické chodníky z Lamača, z Devína cez Devínsku Kobylu a Slavín či z hlavnej železničnej stanice cez Kolibu.",
+        "imageName": "kamzik"
+    },
+    {
+        "name": "Vodopád Skok",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vodopády",
+        "city": "Štrbské Pleso",
+        "place": "Vysoké Tatry",
+        "id": 1008,
+        "coordinates": {
+            "longitude": 20.04558,
+            "latitude": 49.15247
+        },
+        "description": "Ak hľadáte v Tatrách nenáročnú a nie dlhú túru, určite by ste sa mali vybrať do Mlynickej doliny k vodopádu Skok. Tento vodopád s výškou 25 metrov je síce až štvrtým najvyšším, no jednoznačne je najmohutnejším v celých Tatrách. Ako k jednému z mála vodopádov vedie chodník, ktorý je celoročne otvorený. Voda divoko steká po skalnom prahu nachádzajúcemu sa v nadmorskej výške takmer 1800m. Hlavným zdrojom vody pre vodopád je Pleso nad Skokom. Voda sa po dopadne vinie pomedzi balvany Mlynickou dolinou ďalej k oblasti Štrbského plesa. Kto by však zatúžil vidieť zhora nielen vodopád Skok, ale aj celú Mlynickú dolinu, môže počas letnej sezóny vystúpať až k Plesu nad Skokom. Úsek trasy je zabezpečený oceľovou reťazou, avšak prechod zvládne každý turista. V blízkosti vodopádu Skok sa nachádza niekoľko väčších, či menších plies, ktoré môžete tiež navštíviť. Turisticky značený chodník k vodopádu Skok začína pri železničnej stanici na Štrbskom Plese (cca 5km). Chodník k vodopádu Skok stúpa len veľmi pozvoľne. Terén nie je technicky náročný a trasu zvládnete absolvovať aj s menšími deťmi.",
+        "imageName": "vodopadskok"
+    },
+    {
+        "name": "Lietavský hrad",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Lietava",
+        "place": "Považie",
+        "id": 1009,
+        "coordinates": {
+            "longitude": 18.6849,
+            "latitude": 49.16066
+        },
+        "description": "Zrúcanina Lietavského hradu sa nachádza 10 km od krajského mesta Žilina na strmom hrebienku medzi obcami Lietava a Lietavská Svinná. Lietavský hrad dal vystavať pravdepodobne niekto z rodu Balašovcov. Začiatkom 14.stor. zabral hrad Matúš Čák, ale po jeho smrti roku 1321, obsadili hrad vojská kráľa Karola Róberta a hrad vrátili Balašovcom. Hrad v priebehu stáročí niekoľkokrát zmenil majiteľov a bol viackrát prestavaný. Od polovice 18. storočia je hrad opustený a za 250 rokov chátrania sa pamiatka dostala do havarijného technického stavu. V súčasnosti sa o zrúcaninu hradu Lietava stará Združenie na záchranu Lietavského hradu. Od roku 2003 združenie postupne odstraňuje havarijný stav pamiatky a každým rokom je hrad bezpečnejší a zaujímavejší pre návštevníkov. V zrekonštruovaných priestoroch je umiestnená stála expozícia venovaná histórii Lietavského hradu, archeologickým nálezom a palným zbraniam. V roku 2018 sa expozícia rozrástla o hmatovú expozíciu. Všetky exponáty si môžete chytiť do ruky. K hradu vedú značené turistické trasy z okolitých obcí. Najjednoduchší prístup je z Lietavy, časti Majer pešo po chodníku asi 30 minút. Náročnejší prístup je s Lietavskej Svinnej po strmom chodníku cca 45 min.",
+        "imageName": "lietavskyhrad"
+    },
+    {
+        "name": "Poľana",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "",
+        "place": "Demänovská Dolina",
+        "id": 1010,
+        "coordinates": {
+            "longitude": 19.53973,
+            "latitude": 48.94694
+        },
+        "description": "Vrch Poľana sa rozprestiera v Nízkych Tatrách, je plochý a zarastený trávnatým a lesnatým porastom. Poľana sa stala sa vyhľadávanou lokalitou aktívnej turistiky a tiež miestom s nádherným kruhovým výhľadom. Dych berúcemu výhľadu dominujú siluety vrchov Skalka, Dereše a Chabenec. Z vrcholu smerom na sever vedie turistický chodník na vrch Bôr (1888 m n.m.) a odtiaľ na vrch Siná (1560 m n.m.) - je to dôležitá turistická križovatka. Najjednoduchší prístup na Poľanu je z Demänovskej Doliny po žltej a následne po červenej značke. Trasa na vrchol je dlhá približne 5 km a výstup trvá necelé 3 hodiny.",
+        "imageName": "polana"
+    },
+    {
+        "name": "Vyhliadková veža Bojnice",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Bojnice",
+        "place": "Strážovské Vrchy",
+        "id": 1011,
+        "coordinates": {
+            "longitude": 18.56346,
+            "latitude": 48.78584
+        },
+        "description": "Nad mestom Bojnice vyrástla unikátna vyhliadková veža s prevýšením asi 30 metrov. Ide o pomerne náročnú technickú stavbu, ktorá nemá na Slovensku obdoby. Vyhliadková veža v Bojniciach sa inšpirovala podobnou vežou nachádzajúcou sa na Morave. Z vyhliadky sa Vám naskytne pôsobivý výhľad na okolitú krajinu, Bojnický zámok a jeho okolie i na Prievidzu, ktorá nie je bežne vidieť z menšej výšky. Súčasťou stavby je i tobogan, ktorým sa odvážni návštevníci môžu spustiť z vrcholu veže nadol. Vyhliadková veža sa nachádza v zalesnenej časti, západne od Bojnického zámku. Leží neďaleko Bojnickej kalvárie a kaplnky sv. Vendelína v lese. Do lesa vedie spevnená cesta vhodná bicykle alebo kočíky a vedú sem značené turistické trasy z Bojníc aj od Bojnických kúpeľov. Pešia trasa z Bojníc trvá približne 40 minút. V budúcnosti sa plánuje dokonca lanovka od termálneho kúpaliska Čajka. Ak sa rozhodnete prísť auto, parkovisko sa nachádza 5minút cesty od rozhľadne. Vstup na vyhliadku je kontrolovaný a spoplatnený.",
+        "imageName": "vezabojnice"
+    },
+    {
+        "name": "Svätojurský náučný chodník",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Svätý Jur",
+        "place": "Malé Karpaty",
+        "id": 1012,
+        "coordinates": {
+            "longitude": 17.21191,
+            "latitude": 48.25434
+        },
+        "description": "Ak hľadáte tip na výlet s deťmi v okolí Bratislavy, preskúmajte aj málo známy Svätojurský náučný chodník. Náučný chodník je veľmi zaujímavý a približuje históriu vinohradníctva v Svätom Jure ako aj históriu mesta samotného a zároveň poteší pôsobivými výhľadmi na Bratislavu. Výlet sa začína pod kostolom sv. Juraja v Svätom Juri. Chodník vedie príjemným prostredím viníc ale aj šumením hustého, lesa v ktorom nájdete zabudnutý hrad Biely kameň. Trasu prejdete aj s terénnym kočiarom (cyklovozíkom) a zvládnu ho aj 2-3 ročné deti. Chodník je dlhý cca 4 km a dĺžka prechodu potrvá odhadom 1,5 h s malými deťmi.",
+        "imageName": "svatojurskychodnik"
+    },
+    {
+        "name": "Keltské hradisko Pohanská",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Plavecké Podhradie",
+        "place": "Malé Karpaty",
+        "id": 1013,
+        "coordinates": {
+            "longitude": 17.27167,
+            "latitude": 48.48938
+        },
+        "description": "Vrh Pohanská sa vypína v západnej časti Malých Karpát v katastri obce Plavecké Podhradie. Na tomto mieste sa kedysi nachádzalo najväčšie keltské mesto na Slovensku. Keltské oppidum malo tvar nepravidelného štvoruholníka s rozlohou 38 hektárov a predstavovalo významné mocenské stredisko. Dnes možno na tomto mieste pozorovať zvyšky opevnenie, ktoré bolo tvorené múrom z kameňov kladených nasucho a hlineným valom s drevenou konštrukciou. Na vrchole hradiska sa týčila osobitne opevnená akropola chránená ťažko dobytnou bránou s vysokou drevenou vežou. V areáli hradiska bolo množstvo obytných, hospodárskych a iných účelových stavieb, po ktorých dnes možno badať už nerovnosti v teréne. Pohanská je vzácnym archeologickým náleziskom. V lokalite prebiehalo niekoľko archeologických výskumov, ktoré dokazujú osídlenie Pohanskej už v mladšej dobe kamennej. Vzácnej nálezy pochádzajú tiež z doby bronzovej, ide najmä o keramiku, ako aj bežný kuchynský riad. Pohanská predstavuje ideálne miesto nielen pre milovníkov našich dejín, ale aj turistov. Z vrcholu Pohanskej sa naskytá obmedzený, ale veľmi pekný výhľad na hrebene Malých Karpát či do Záhorskej nížiny. Za dobrej viditeľnosti môžete v diaľke zazrieť aj obrysy Bielych Karpát. Ak by vám výstup na Pohanskú nestačil, iba kúsok od tohto vrchu sa nachádza zrúcanina stredovekého hradu, zvaného Plavecký hrad. Na Pohanskú sa možno dostať po Náučnom chodníku Plavecký kras, ktorého začiatok je buď v obce Plaveckom Podhradí alebo v Plaveckom Mikuláši. Z trasy náučného chodníka je potrebné po čase odbočiť na neoznačenú lesnú cestu vedúcu až na vrchol Pohanskej.",
+        "imageName": "hradiskopohanska"
+    },
+    {
+        "name": "Kačín",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Bratislava",
+        "place": "Malé Karpaty",
+        "id": 1014,
+            "coordinates": {
+            "longitude": 17.06668,
+            "latitude": 48.21414
+        },
+        "description": "Výletu na Kačín sa potešia najmä bikery alebo ''kočíkoví maniaci'', ktorým neprekáža tlačiť kočík dokopca. Na Kačíne na vás čaká pekné detské ihrisko s ohniskami a určite tento výlet neoľutujete. Túto nenáročnú, spolu 11km dlhú prechádzku je najlepšie absolvovať počas pracovných dní. Cez víkend totiž môžete bojovať s nedostatkom parkovacích miest alebo množstvom turistov. Auto zaparkujete v Lamači pri Červenom moste a odťiaľ po lesných chodníkoch alebo priamo po Ceste mládeže pokračujeme k mlynu a k Železnej studničke, kde sa môžete zastaviť na langoše plnené husacinou. Tu odbočíme doľava a strmou asfaltkou stúpame na až Kačín. Cesta tam aj späť trvá približne 2.5 hodiny.",
+        "imageName": "kacin"
+    },
+    {
+        "name": "Písaný kameň",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Bratislava",
+        "place": "Malé Karpaty",
+        "id": 1015,
+        "coordinates": {
+            "longitude": 17.07223,
+            "latitude": 48.22151
+        },
+        "description": "Kúsok za Bratislavou, kdesi hlboko v tamojších lesoch, je skryté miesto, ktoré dýcha históriou a dávnymi časmi kráľov. Je to miesto, ktoré pomaly ohlodáva zub času a nesmierna sila prírody, no napriek tomu stále láka výletníkov dychtivých po časoch minulých. Toto miesto je výnimočné vďaka mohutnému kameňu, ktorý tu leží už od roku 1600. Ide o tzv. Písaný kameň, ktorý sa nachádza v Malých Karpatoch. Lokalita tak spája v sebe príjemnú a pomerne krátku vychádzku, či cyklovýlet obohatený o čriepky histórie. Písaný kameň je vlastne pozostatok hraničného kameňa - severnej hranice kráľovskej Bratislavy reprezentovanú jej poddanou časťou Lamač a stupavsko-pajštúnskeho panstva. Hranicu dal vytýčiť sám cisár Rudolf II.. Na kameni je vytesané číslo 11, ktoré predstavovalo jeho poradie v línii hraničných kameňov. Badať aj letopočet 1600, erb mesta Bratislavys iniciálkami bratislavského mešťanostu Mateja Partingera a tiež erb rodu Pálffyovcov s iniciálkami pálffyovského provízora Juraja Drasu. Nakoľko je Písaný kameň ukrytý v hustom lese a porastený je už machom, nájsť ho nie je práve najjednoduchšie. K Písanému kameňu je možné sa dostať po značkovaných turistických chodníkoch, ktoré smerujú k rázcestiu Za Kačínom. Následne asi 150 m severne od tohto rázcestia treba odbočiť z červenej značky na neoznačenú lesnú cestičku. Z Lamača alebo Záhorskej Bystrice je trasa dlhá približne 3 km a lokalitou vedú aj značené cyklotrasy.",
+        "imageName": "pisanykamen"
+    },
+    {
+        "name": "Čierna Skala",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Vrchy",
+        "city": "Plavecký Mikuláš",
+        "place": "Malé Karpaty",
+        "id": 1016,
+        "coordinates": {
+            "longitude": 17.34086,
+            "latitude": 48.49901
+        },
+        "description": "Očarujúce belasé skalné výbežky Malých Karpát zlákajú na potulky nejedného turistu či výletníka. Inak to nie je ani v prípade Čiernej skaly. Skalnatý hrebeň tohto vrchu je patrí medzi obľúbené a vyhľadávané turistické lokality a navyše toto miesto obľubujú aj milovníci horskej cyklistiky. Dominantný masív vypínajúci sa neďaleko Plaveckého Mikuláša, ponúka zo svojich vrcholových častí prekrásne a ďaleké výhľady na okolité malokarpatské lesy a Podunajskú nížinu. Obdivovať však môžete aj pôsobivé skalné steny, ktoré dosahujú výšku 10 až 35 m, či zaujímavý prírodný úkaz – skalné okno. Výstup na Čiernu skalu nie je náročný. Chodník väčšinou vedie cez lesy a lúky, pri posledných metroch treba počítať s miernym stúpaním. Po ceste však máte možnosť oddýchnuť si napríklad aj pod prístreškom s ohniskom. Na Čiernu skalu vedie viacero turisticky značených chodníkov. Žltá turistická značka sem vedie z Plaveckého Mikuláša (cca 3.5 km) - zahŕňa však pomerne náročné stúpanie, a preto pre rodiny s deťmi odporúčame ako východiskový bod rekreačné stredisko Jahodník (cca 4.5 km), kde sa nachádza aj väčšie parkovisko.",
+        "imageName": "ciernaskala"
+    },
+    {
+        "name": "Pajštún",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Vrchy",
+        "city": "Borinka",
+        "place": "Malé Karpaty",
+        "id": 1017,
+        "coordinates": {
+            "longitude": 17.08212,
+            "latitude": 48.27509
+        },
+        "description": "Pajštúnsky hrad patril do sústavy pohraničných hradov, ktoré v Malých Kapatoch preberali od 13. storočia funkciu ochrany severozápadných hraníc uhorského štátu. Počiatky tohto kráľovského hradu siahajú do 2. polovice 13. storočia. Hradné budovy sa zachovali vo fragmentoch okolo ústredného nádvoria, ktorého plochu prekrýva násyp z poškodených murív. Najsúvislejšie je obvodové murivo palácov a opevnení vstavaných do masívu hradného brala, so zachovanými otvormi okien, arkierov, vstupov, v murive s odľahčovacími oblúkmi a stopami po klenbách. K hradu vedú nenáročné turistické chodníky z Borinky, Stupavy alebo Bratislavy-Rače. Najrýchlejší prístup je po cca 1.5km dlhej značenej trasy z Borinky.",
+        "imageName": "pajstun"
+    },
+    {
+        "name": "Traja jazdci",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vrchy",
+        "city": "Modra",
+        "place": "Malé Karpaty",
+        "id": 1018,
+        "coordinates": {
+            "longitude": 17.25573,
+            "latitude": 48.3633
+        },
+        "description": "Ak sa ocitne v blízkosti Modry a budete mať chuť objavovať tamojšie prírodné krásy, skúste vynechať tradičné a turistami preplnené lokality v Malých Karpatoch a preskúmať tak trochu osamotené, ale zato veľmi malebné zákutia. Jedným z tých nevšednejších sú aj skalné útvary nazývané Traja jazdci. Ide o kremencové bralá, ktoré sa vyznačujú svojou charakteristickou sivej, miestami až jemnej sivoružovej farby. Bizarné skaliská verne poznajú najmä horolezci, ktorí tu majú niekoľko cvičných horolezeckých trás. Pre bežných turistov sú Traja jazdci perfektným vyhliadkovým miestom s možnosťou odpočinku v tôni stromov okolitého lesíka. Skaly sú však pomerne vysoké a strmé, preto tu treba byť maximálne opatrní. Traja jazdci môžu byť príjemnou zastávkou v rámci túry na blízku vyhliadku na Veľkej homoli, odkiaľ je to len 5 minút po červenej alebo zelenej turistickej značke. Dostupné sú však viacerými značenými trasami aj z Pezinka (cca 6 km) alebo z Modry (cca 7 km), prípadne aj od Zochovej chaty (cca 3 km) z lokality Piesok smerom na juh okolo Tisových skál.",
+        "imageName": "trajajazdci"
+    },
+    {
+        "name": "Skalnaté pleso",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Jazerá",
+        "city": "Tatranská Lomnica",
+        "place": "Vysoké Tatry",
+        "id": 1019,
+        "coordinates": {
+            "longitude": 20.23289,
+            "latitude": 49.18835
+        },
+        "description": "Majestátne Tatry ukrývajú množstvo prírodných úkazov, ktoré sa stali obľúbenými turistickými miestami. Presne takým čarovným miestom je aj Skalnaté pleso. Kto ho nenavštívil, akoby ani v Tatrách nebol. Skalnaté pleso je morénové pleso v Tatrách v najnižšom kare Skalnatej doliny. Má rozlohu 1,23 ha, hĺbku 2 m a nachádza sa v nadmorskej výške 1754 m n. m. V suchom období je bez vody, pretože pri stavbe lanovky narušili nepriepustnosť jeho dna. Pri plese je údolná stanica visutej *lanovej dráhy na Lomnický štít*, sedačková lanová dráha do Lomnického sedla, horná stanica kabínkovej lanovej dráhy, ktorá premáva z Tatranskej Lomnice na Skalnaté pleso s medzistanicou Štart. Akonáhle vystúpite z lanovky, očarí vás rozprávkový výhľad. Okolie je nádherné, ako stvorené na prechádzky či turistiku. Spoza všetkých vrcholov a vysokohorského porastu vykukuje aj dominanta tejto lokality, ktorou je historicky prvé observatórium na Slovensku - Observatórium Astronomického ústavu SAV. Na Skalnaté pleso Vás pohodlne vyvezie lanovka z Tatranskej Lomnice. Ak máte radi turistiku, na Skalnaté pleso vedie stredne náročný značený chodník. Výstup trvá 2h 40min z Tatranskej Lomnice alebo 1h 40min z medzistanice lanovky Štart.",
+        "imageName": "skalnatepleso"
+    },
+    {
+        "name": "Vodopád pod Orlovou",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vodopády",
+        "city": "Pohorelá",
+        "place": "Nízke Tatry",
+        "id": 1020,
+        "coordinates": {
+            "longitude": 20.06226,
+            "latitude": 48.87899
+        },
+        "description": "Na toku potoku Kopanica, v obci Pohorelá, vytvorila príroda krásny vodopád nesúci názov „Vodopád pod Orlovou“. Jeho vodný závoj padá z výšky piatich metrov priamo po skalnej stene. Vodopád sa nachádza v nenápadnej a turisticky pomerne málo známom kúte Slovenska, ktorý je však nesmierne pestrý na prírodné bohatstvo a nesklame ani tých zdatnejších turistov. Vodopád pod Orlovou je súčasťou turistického okruhu po zeleno značenom chodníku. Štartovací bod je na námestí obce Pohorelá (cca 5 km). Trasa vás prevedie očarujúcou dolinou Lukáčikova, ako aj úsekmi so zaujímavými skalnými útvarmi až k samotnému vodopádu. Keď sa nasýtite pôvabom Vodopádu pod Orlovou môžete v okruhu pokračovať lesnou cestou na Salašnú a odtiaľ striedavo lesom a lesnými čistinkami cez masív Skalky s peknými výhľadmi na vrcholy Orlová a Bartková. Z turistickej trasy sú zaujímavé výhľady aj na Muránsku planinu, kde dominuje Gindura, Veľká a Malá Stožka a masív Fabovej hole. Celú okružnú trasu je možné zvládnuť za necelé štyri hodiny. Vzhľadom na jej pomerne nenáročný terén ju odporúčame aj pre menej zdatných turistov a rodiny s detičkami, ktoré po ceste budú mať o zábavu postarané.",
+        "imageName": "vodopadnadorlovou"
+    },
+    {
+        "name": "Veľké Hincovo pleso",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Jazerá",
+        "city": "Štrbské Pleso",
+        "place": "Vysoké Tatry",
+        "id": 1021,
+        "coordinates": {
+            "longitude": 20.06004,
+            "latitude": 49.17553
+        },
+        "description": "Najväčšie a najhlbšie pleso na slovenskej strane Vysokých Tatier nesie názov Veľké Hincovo pleso. Pre tatranských turistov nie je žiadnou neznámou, a preto nemá núdzu o početnú návštevnosť. Leží pod majestátnym Kôprovským štítom v závere Mengusovskej doline. Veľké Hincovo pleso je ľadovcového pôvodu a je tak dôkazom zaľadnenia Tatier v starších štvrtohorách. Pleso je 740 metrov dlhé a 370 metrov široké. Jeho hĺbka dosahuje až úctyhodných 53 metrov, a pritom nemá žiadny povrchový prítok. Z plesa odteká Hincov potok, na ktorom sa v blízkosti plesa nachádzajú drobné jazierka tzv. Hincové oká. Zaujímavosťou Veľkého Hincovho plesa je, že má priezračne modrú farbu. Krásne sfarbenie a krištáľovo čistá voda vám umožní dovidieť až do hĺbky 12 metrov, čo nie je možné pozorovať pri žiadnom inom jazere na Slovensku. Okrem toho vás očarí aj okolitá, nezameniteľná panoráma, ktorej dominujú strmé skalné masívy, nádherná príroda či svieži vysokohorský vzduch. Túra k Veľkému Hincovmu plesu je stredne náročná. Trasa vedúca na k plesu má dĺžku zhruba 8,5 kilometra a jej absolvovanie vám zaberie pol dňa. Značený turistický chodník začína pri Štrbskom Plese. Cestou máte možnosť zastaviť sa pri Popradskom plese, či pri symbolickom cintoríne obetí Vysokých Tatier. Možnosť oddychu a občerstvenia sa vám naskytne v Chate pri Popradskom plese.",
+        "imageName": "hlincovopleso"
+    },
+    {
+        "name": "Vajskovský vodopád",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vodopády",
+        "city": "Dolná Lehota - Krpáčovo",
+        "place": "Nízke Tatry",
+        "id": 1022,
+        "coordinates": {
+            "longitude": 19.53847,
+            "latitude": 48.93349
+        },
+        "description": "Turistická trasa naprieč jednou z najkrajších dolín Nízkych Tatier, Vajskovskou dolinou, vás dovedie až k jej trblietavému prírodnému klenotu – Vajskovskému vodopádu. Lokalita nepatrí medzi „turistické masovky“, a preto tu na vás čaká pokoj, ticho a čarovná krása. Vajskovský vodopád zurčí v samotnom závere doliny, odkiaľ už cesta nepokračuje z dôvodu ochrany. Voda mohutne padá z výšky 9 metrov po divokom skalnom zráze v nadmorskej výške 1200 m.n.m. Vajskovský vodopád je pomerne dobre ukrytý v náručí bohatej vegetácie. Je trvalý, ale najväčšiu silu dosahuje prirodzene po dažďoch a keď sa topí sneh z okolitých vrcholov. Celou dolinou vedie 9 km dlhá asfaltová cesta, a preto bude túra skôr príjemnou prechádzkou, ktorú zvládnu aj deti. Chodník je celoročne otvorený, a tak si krásy vodopádu v podobe ľadového kráľovstva môžete pozrieť aj v zime. Vajskovská dolina je okrem pešej turistiky vhodná aj na cykloturistiku a s bicyklom sa pohodlne dostanete až k vodopádu. K vodopádu vedie turistický chodník z Dolnej Lehoty značený zelenou značkou.",
+        "imageName": "vajskovskyvodopad"
+    },
+    {
+        "name": "Zelená jaskyňa",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Jaskyne",
+        "city": "Dobšiná",
+        "place": "Slovenské Rudohorie",
+        "id": 1023,
+        "coordinates": {
+            "longitude": 20.30981,
+            "latitude": 48.85918
+        },
+        "description": "V blízkosti obce Dobšiná sa nachádza pre verejnosť voľne prístupná Zelená jaskyňa. Medzi turistami je pomerne veľkou neznámou, pretože ju zatieňuje oveľa známejšia a hojne návštevovaná Dobšinská ľadová jaskyňa. Napriek tomu sa Zelenú jaskyňu oplatí navštíviť napríklad vo forme príjemného spestrenia si turistiky v tejto lokalite. Jaskyňa je situovaná na juhovýchodnom svahu hrebeňa Duče. Bola vytvorená podzemnými vodami bohatými na oxid uhličitý. Zelená jaskyňa je zaujímavá svojimi dvomi vstupmi, ktoré vedú do chodby dlhej 31 metrov bez krasovej výzdoby. Jaskyňa sa nachádza v blízkosti modro značeného turistického chodníka, ktorý vedie z osady Dobšinská Ľadová Jaskyňa (cca 3.5 km) do sedla Pod Hanesovou.",
+        "imageName": "zelenajaskyna"
+    },
+    {
+        "name": "Wesselényiho jaskyňa",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Jaskyne",
+        "city": "Muráň",
+        "place": "Slovenské Rudohorie",
+        "id": 1024,
+        "coordinates": {
+            "longitude": 20.0643,
+            "latitude": 48.76397
+        },
+        "description": "Muránska planina je prekrásnou lokalitou s množstvom turistických chodníkov, ktoré vás zavedú za tými najúžasnejšími prírodnými unikátnymi. NP Muránska planina však ukrýva prírodné bohatstvá aj pod zemským povrchom v podobe jaskynných chodieb. Mnohé z nich však ostávajú pred očami turistov ukryté. Iba jedna z nich je pre verejnosť voľne prístupná, a to Wesselényiho jaskyňa. Táto jaskyňa je situovaná v blízkosti Muránskeho hradu. Wesselényiho jaskyňa je dlhá 16 metrov a pomenovaná bola po uhorskom magnátovi Františkovi Vešelénim, ktorý bol pánom Muránskeho hrad. Wesselényiho jaskyňa nemá tradičnú kvapľovú výzdobu, za to však je príjemným spestrením turistiky v tejto lokalite. Jaskyňa je dobre dostupná po značených turistických chodníkoch, ktoré vedú z obcí Muráň (cca 3.5 km) a z Muránska Huta (cca 3.5 km). Výlet k jaskyni odporúčame spojiť s návštevou neďalekej zrúcaniny Muránskeh hradu.",
+        "imageName": "wesselenihojaskyna"
+    },
+    {
+        "name": "Dolnosokolské jaskyne",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Jaskyne",
+        "city": "Hubina",
+        "place": "Považie",
+        "id": 1025,
+        "coordinates": {
+            "longitude": 17.93916,
+            "latitude": 48.59533
+        },
+        "description": "Jednou z verejnosti voľne prístupných jaskýň v pohorí Považský Inovec je Veľká a Malá dolnosokolská jaskyňa. Ide o puklinové jaskyne vytvorené v útvare Sokolie skaly v nadmorskej výške 477 m n. m. Obe jaskyne sú vyhlásené za prírodné pamiatky. Veľká dolnosokolská jaskyňa má dĺžku podzemnej chodby 15 metrov. Jaskyňa nemá žiadnu kvapľovú výzdobu. Jej význam však spočíva vo vzácnych archeologických nálezoch pochádzajúcich z neolitu. Malá dolnosokolská jaskyňa sa nachádza v tesnej blízkosti Veľkej dolnosokolskej jaskyni, ibaže o niečo nižšie. Jej dĺžka je 10 metrov. Rovanko aj jej suseda, aj táto jaskyňa je bez kvapľovej výzdoby. Obe jaskyne sa nachádzajú v blízkosti značených turistických chodníkov. Najbližie je to z rekreačného strediska Výtoky, odkiaľ sú jaskyne vzdialené približne 1km. Dostupné sú však aj z obce Moravany nad Váhom, odkiaľ vedie približne 8km dlhý značený turistický a náučný chodník. Kedže okolím lokality vedie aj značená cyklotrasa, cestu si môžete uľahčiť jazdou na bicykli.",
+        "imageName": "dolnosokolskajaskyna"
+    },
+    {
+        "name": "Veľký Tribeč",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Vrchy",
+        "city": "Kostoľany pod Tríbečom",
+        "place": "Ponitrie",
+        "id": 1026,
+        "coordinates": {
+            "longitude": 18.23903,
+            "latitude": 48.46927
+        },
+        "description": "Pohorie Tribeč sa rozprestiera vo Fatransko-tatranskej oblasti medzi mestami Nitra, Partizánske a Zlaté Moravce. Jeho najvyšším vrcholom je Veľký Tribeč týčiaci sa v nadmorskej výške 835 m.n.m. Ponúka výbornú prechádzka krásnou prírodou. Na vrchole je trávnatá plošina obkolesená listnatými lesmi s obmedzeným výhľadom. Aj keď sa cesta na vrchol síce môže zdať nekonečná, je sprevádzaná krásnymi výhľadmi, ktoré tento výstup oživia. A keď vyleziete na vrchol, budete veľmi spokojní, že ste nakoniec túto cestu podstúpili. Na vrchol Tribeča sa dá dostať niekoľkými turistickými cestami z viacerých obcí nachádzajúcich sa v údolí. Najjednoduchší prístup je po červenej značke z Kostolian pod Tribečom. Samotný úsek, ktorý prejdete, má približne sedem kilometrov a výstup zvládnete za dve hodiny s prevýšením necelých 600 m. Z obce Solčany vedie dokonca náučný chodník, takže ak zatúžite sa po ceste dozvedieť o tejto lokalite aj nejaké zaujímavosti, odporúčame Vám túto turistickú trasu.",
+        "imageName": "velkytribec"
+    },
+    {
+        "name": "Jaskyňa Driny",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Jaskyne",
+        "city": "Smolenice",
+        "place": "Dolné Považie",
+        "id": 1027,
+        "coordinates": {
+            "longitude": 17.4021,
+            "latitude": 48.5004
+        },
+        "description": "Jaskyňa Driny je jediná sprístupnená jaskyňa na západnom Slovensku. Síce menšia a menej bohatá na výzdobu, malých návštevníkov však poteší množstvo netopierov, ktoré poletujú ponad hlavu počas 30 min. prehliadky. Pre jaskyňu sú typické sintrové záclony so zúbkovitým lemovaním. Ďalej sú zastúpené sintrové jazierka, vodopády a náteky, pagodovité stalagmity a rozličné formy stalaktitov. Parkovisko leží 1 km od dediny Smolenice pri rekreačnom stredisku Jahodník. Od parkoviska treba prejsť k jaskyni lesným chodníkom v dĺžke 1 km a prevýšením 100 m. Prístup trvá asi 20 min a záver chodníka je pomerne strmý so 100 schodmi.",
+        "imageName": "jaskynadriny"
+    },
+    {
+        "name": "Belasé pleso",
+        "isFavorite": false,
+        "isFeatured": false,
+        "category": "Jazerá",
+        "city": "Ždiar",
+        "place": "Vysoké Tatry",
+        "id": 1028,
+        "coordinates": {
+            "longitude": 20.21156,
+            "latitude": 49.21517
+        },
+        "description": "Vysoké Tatry sú plné krásnych turistických chodníkov, po ktorých denne prejde množstvo zdatných aj menej zdatných slovenských, ale i zahraničných turistov. Ak patríte ku skupinke turistických nadšencov, ktorí majú radšej kratšie trasy, ktoré viete absolvovať do pár hodín, vyberte sa na Jahňací štít, ktorý obkolesuje nádherné Belasé pleso. Belasé pleso patrí k tatranským plesám v Červenej doline. Nachádza sa v nadmorskej výške 1811 m n.m. už pri spomínanej turistickej trase na Jahňací štít. Vyplňuje hlboký ľadovcový kar a v dolnej časti je prehradené 6 m vysokou morénou. Pleso je 40 m dlhé a 22 m široké, preto z tohto hľadiska patrí medzi tie menšie a v letných mesiacov takmer úplne vysychá. Počas chladných mesiacov však jeho maximálna hĺbka dosahuje 3,8 m. Pomenovanie Belasé pleso je odvodené od jeho zdanlivého zafarbenia vody, ktoré je vyvolávané reflexmi na hladine plesa. Belasé pleso je chránené vysokými hrebeňmi Kozieho a Jahňacieho štítu, ako i Kolovým sedlom a Jastrabou vežou.",
+        "imageName": "belasepleso"
+    },
+    {
+        "name": "Mojtínska jaskyňa",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Jaskyne",
+        "city": "Mojtín",
+        "place": "Strážovské Vrchy",
+        "id": 1029,
+        "coordinates": {
+            "longitude": 18.42166,
+            "latitude": 48.98778
+        },
+        "description": "V očarujúcom prostredí Mojtínskeho krasu sa príroda poriadne vyhrala a tejto lokalite dopriala unikátnu a veľkolepú jaskyňu nazývanu Mojtínska jaskyňa či Jaskyňa sv. Jozefa. Táto priepastná jaskyňa je zaujímavá aj v tom, že v minulosti slúžila aj ako akýsi jaskynný kostol pre stovky ľudí. Jaskyňa má výrazný vchod, ktorý vás zavedie do priestrannej siene bez kvapľovej výzdoby, no so sinitrovým povlakom. Jaskyňa je ozvláštená sakrálnou sochou sv. Jozefa, vďaka čomu si aj v súčasnosti zachováva svoje nezameniteľné duchovné čaro. Okrem veľkolepej Mojtínskej jaskyne je možné v tejto lokalite pozorovať aj ďalšie menšie štrbiny a pukliny. Pri troche opatrnosti je návšteva tejto jaskyne vhodná aj pre menšie deti. Mojtínska jaskyňa je dostupná z obce Mojtín po značenom turistickom chodníku (cca 2km). Navádzať vás budú aj informačné tabule a okolím vedie aj značená cyklotrasa.",
+        "imageName": "mojtinskajaskyna"
+    },
+    {
+        "name": "Nálepkove vodopády",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Vodopády",
+        "city": "Mlynky - Biele Vody",
+        "place": "Slovenský Raj",
+        "id": 1030,
+        "coordinates": {
+            "longitude": 20.39666,
+            "latitude": 48.87503
+        },
+        "description": "Jedna z najkrajších a na prechod menej náročných roklín v Slovenskom raji, Zejmarská roklina, je ozvláštnená zurčaním prekrásnych vodopádov -- Nálepkove vodopády. Nálepkove vodopády sú tvorené sústavou vodopádov. Vodný prameň steká po mohutných balvanoch a vytvára exponovanú časť turistického chodníka, ktorú je možné zdolať iba pomocou rebríkov. V zime Nálepkove vodopády zamŕzajú a vytvárajú nádherné ľadopády, ktoré dokonale zapadajú do okolitej prírody zahalenej bielou perinou. Nálepkove vodopády sú pomenované podľa kpt. Jána Nálepku - hrdinu bojov v Rusku počas 2. svetovej vojny, ktorý pôsobil v neďalekej osade Biele Vody. Zemjarská roklina aj vodopády sú súčasťou okružného náučného chodníka NCH Slovenský raj z obce Dedinky. Chodník má takmer 10km a prechod trvá približne 3 hodiny.",
+        "imageName": "nalepkovevodopady"
+    },
+    {
+        "name": "Roháčske plesá",
+        "isFavorite": false,
+        "isFeatured": true,
+        "category": "Jazerá",
+        "city": "Habovka",
+        "place": "Roháče",
+        "id": 1031,
+        "coordinates": {
+            "longitude": 19.73417,
+            "latitude": 49.20596
+        },
+        "description": "Potulky po Roháčoch sú neopísateľným zážitkom pre nejedného nadšenca prírody a turistiky. Je to krásna lokalita s výborným prístupom, ktorá každoročne v plnej svojej kráse privíta množstvo turistov zo Slovenska, ale i zahraničia. Jedným z lákadiel tohto pohoria sú, ako inak, malebné Roháčske plesá, ktoré predstavujú sústavu plies v závere Roháčskej doliny obklopené pôsobivou scenériou Západných Tatier. Štyri hlavné plesá sa nachádzajú v terasách nad sebou v Smutnej doline a patria medzi najnižšie položenú sústavu ľadovcových jazierok v Európe. Ďalšie ležia na zostupe cez Spálenú dolinu. Roháčske plesá najlepšie spoznáte, ak sa k nim vydáte po Náučnom chodníku s rovnomenným názvom. Dĺžka trasy je približne 4,5 km a jednotlivé informačné panely vás budú sprevádzať históriu a ponúknu vám i zaujímavé fakty o týchto jedinečných ľadovcových plesách. Tento náučný chodník je však z bezpečnostných dôvodov otvorený len v období od 1. júna do 1. novembra. Okolie Roháčskych plies je bohaté na túry pre všetky úrovne fyzickej kondície turistov. Rodiny s deťmi potešia nenáročné prechádzky po okolí a tí zdatnejší sa môžu tešiť na poriadne exponované túry a výstupy.",
+        "imageName": "rohacskeplesa"
+    }
+]

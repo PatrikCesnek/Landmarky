@@ -54,15 +54,16 @@ struct LandmarkDetail: View {
                         .font(.subheadline)
                 }
                 VStack {
-                    Button("Ukáž popis") {
+                    Button(showingDescription ? "Skry popis" : "Ukáž popis" ) {
                         self.showingDescription.toggle()
                     }
-                    
+
                     if self.showingDescription == true {
                         ScrollView {
                             Text("\(landmarkData[landmarkIndex].description)")
                                 .fixedSize(horizontal: false, vertical: true)
                         }
+                
                     }
                 }
             }

@@ -28,9 +28,9 @@ struct HikeView: View {
                     .animation(nil)
                 
                 VStack(alignment: .leading) {
-                    Text(hike.name)
+                    Text(verbatim: hike.name)
                         .font(.headline)
-                    Text(hike.distanceText)
+                    Text(verbatim: hike.distanceText)
                 }
                 
                 Spacer()

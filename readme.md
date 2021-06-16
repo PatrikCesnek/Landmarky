@@ -1,4 +1,4 @@
-<h1>Application Where you can find landmarks in Slovakia created in SwiftUI</h1>
+<h1>Application Where you can find landmarks in Slovakia, created in SwiftUI</h1>
 
 <div>
   <h4>Main View</h4>
